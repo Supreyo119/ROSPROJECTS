@@ -1,3 +1,4 @@
+<img width="1865" height="905" alt="rospic2" src="https://github.com/user-attachments/assets/46a0a473-3385-4534-9987-3fb381b78977" />
  Wall Climbing Robot - URDF ROS2
  --Description
 A wall climbing robot simulation built with ROS2 and URDF.
